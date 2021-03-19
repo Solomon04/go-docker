@@ -1,0 +1,9 @@
+version: "1"
+packages:
+  - name: "db"
+    path: "src/db"
+    queries:
+      - "./database/queries/mysql/users_queries.sql"
+      - "./database/queries/mysql/user_settings_queries.sql"
+    schema: "./database/migrations/mysql/"
+    engine: "mysql"

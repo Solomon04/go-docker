@@ -1,0 +1,196 @@
+type User {
+  id: Int!
+  uuid: ID!
+  firstName: String
+  lastName: String
+  avatar: String!
+  email: String!
+  expoToken: String
+  lastSeenAt: String
+  lastSeenLocation: String
+  settings: UserSettings
+  locations: [Location]
+  events: [Event]
+  followers: [User]
+  followings: [User]
+  reservations: [Reservation]
+  createdAt: String
+  updatedAt: String
+  deletedAt: String
+}
+
+type UserSettings {
+  id: ID!
+  userID: ID!
+  primaryCity: String
+  primaryState: String
+  primaryZipCode: String
+  primaryLat: Float
+  primaryLong: Float
+  preferredLocationTypes: String
+  preferredDistance: Int!
+  notifyComments: Boolean!
+  notifyEvents: Boolean!
+  notifyRecommendations: Boolean!
+  notifyFollowerActivity: Boolean!
+  createdAt: String
+  updatedAt: String
+}
+
+type Location {
+  id: ID!
+  uuid: ID!
+  name: String
+  slug: String
+  avatar: String!
+  description: String
+  locationType: String
+  street: String
+  city: String
+  state: String
+  zip: String
+  lat: Float
+  long: Float
+  distance: Float
+  members: [User]
+  events: [Event]
+  scheduleRule: String
+  isActive: Boolean!
+  hasCovidRestriction: Boolean!
+  appointmentTypeID: String
+  calendarID: String
+  createdAt: String
+  updatedAt: String
+  deletedAt: String
+}
+
+type Event {
+  id: ID!
+  uuid: ID!
+  creatorID: ID
+  locationID: ID!
+  startTime: String!
+  endTime: String!
+  # Should we do distance calculation on client side?
+  lat: Float!
+  long: Float!
+  distance: Float
+  attendees: [User]
+  location: Location
+  status: EventStatus
+  liveCount: Int!
+  createdAt: String
+  updatedAt: String
+}
+
+type PersonalAccessToken {
+  id: ID!
+  userID: ID
+  token: String
+  createdAt: String
+  updatedAt: String
+}
+
+type Reservation {
+  id: ID!
+  eventID: ID
+  userID: ID
+  reservationTime: String
+  createdAt: String
+  updatedAt: String
+}
+
+enum EventStatus {
+  UPCOMING
+  IN_PROGRESS
+  PAST
+}
+
+enum LocationType {
+  LIFETIME_FITNESS
+  YMCA
+  LA_FITNESS
+  ATHLETIC_CLUB
+  FIELD_HOUSE
+}
+
+input NewUser {
+  firstName: String!
+  lastName: String!
+  email: String!
+  password: String!
+}
+
+input BasicLogin {
+  username: String!
+  password: String!
+}
+
+input AppleOAuth {
+  accessToken: String!
+  user: String # JSON String from Apple
+}
+
+input GoogleOAuth {
+  accessToken: String!
+}
+
+input UpdateUser {
+  firstName: String
+  lastName: String
+  avatar: String
+  expoToken: String
+}
+
+input UpdateSettings {
+  primaryCity: String
+  primaryState: String
+  primaryZipCode: String
+  preferredLocationTypes: String
+  preferredDistance: Int!
+  notifyComments: Boolean!
+  notifyEvents: Boolean!
+  notifyRecommendations: Boolean!
+  notifyFollowerActivity: Boolean!
+}
+
+type Mutation {
+  # auth mutations
+  registerUser(registration: NewUser): String!
+  authenticateWithPassword(payload: BasicLogin): String!
+  authenticateWithGoogle(payload: GoogleOAuth): String!
+  authenticateWithApple(payload: AppleOAuth): String!
+  logout: String!
+
+  # user mutations (require authorization)
+  updateUser(userInfo: UpdateUser): User
+  updateSettings(userSettingsInfo: UpdateSettings): UserSettings
+  deleteUser: String
+
+  # location mutations (require authorization)
+  joinLocation(slug: String!): String!
+  leaveLocation(slug: String!): String!
+  commentOnLocation(message: String!): String!
+
+  # event mutations (require authorization)
+  joinEvent(eventID: ID!): String!
+  leaveEvent(eventID: ID!): String!
+  commentOnEvent(message: String!): String!
+}
+
+type Query {
+  # user queries useful for search and retrieval
+  me: User
+  user(uuid: ID): User
+  users(name: String, uuid: ID, email: String, id: Int): [User]
+
+  # location queries (recommendedLocations used in discover locations feed)
+  location(slug: String): Location
+  locations: [Location]
+  recommendedLocations: [Location]
+
+  # event queries (recommendedEvents used in main events screen)
+  event(eventID: ID): Event
+  events: [Event]
+  recommendedEvents: [Event]
+}

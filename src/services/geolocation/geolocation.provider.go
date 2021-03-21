@@ -1,3 +1,0 @@
-package geolocation
-
-// Calculate geolocation

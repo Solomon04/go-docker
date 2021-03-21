@@ -1,0 +1,1253 @@
+[
+  {
+    "name": "Savage Lifetime Fitness",
+    "street_address": "6544 Loftus Ln",
+    "city": "Savage",
+    "state": "MN",
+    "zip": "55378",
+    "lat": 44.749786,
+    "long": -93.361533,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/savage-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Lakeville Lifetime Fitness",
+    "street_address": "18425 Dodd Blvd",
+    "city": "Lakeville",
+    "state": "MN",
+    "zip": "55044",
+    "lat": 44.6828614,
+    "long": -93.2500005,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/lakeville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Bloomington South Lifetime Fitness",
+    "street_address": "1001 W 98th St",
+    "city": "Bloomington",
+    "state": "MN",
+    "zip": "55431",
+    "lat": 44.8262006,
+    "long": -93.2933865,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/bloomington-south-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Eagan Lifetime Fitness",
+    "street_address": "1565 Thomas Center Dr",
+    "city": "Eagan",
+    "state": "MN",
+    "zip": "55122",
+    "lat": 44.792354,
+    "long": -93.179407,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/eagan-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Edina at Southdale Lifetime Fitness",
+    "street_address": "250 Southdale Center",
+    "city": "Edina",
+    "state": "MN",
+    "zip": "55435",
+    "lat": 44.8806577,
+    "long": -93.3247802,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/edina-at-southdale-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Eden Prairie Athletic Lifetime Fitness",
+    "street_address": "755 Prairie Center Dr",
+    "city": "Eden Prairie",
+    "state": "MN",
+    "zip": "55344",
+    "lat": 44.856245,
+    "long": -93.436261,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/eden-prairie-athletic-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Crosstown (Eden Prairie) Lifetime Fitness",
+    "street_address": "6233 Baker Rd",
+    "city": "Eden Prairie",
+    "state": "MN",
+    "zip": "55344",
+    "lat": 44.889732,
+    "long": -93.445774,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/crosstown-eden-prairie-lifetime-fitness.jpg"
+  },
+  {
+    "name": "St. Louis Park Lifetime Fitness",
+    "street_address": "5525 Cedar Lake Rd",
+    "city": "St Louis Park",
+    "state": "MN",
+    "zip": "55416",
+    "lat": 44.9630884,
+    "long": -93.3496909,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/st-louis-park-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Target Center (Minneapolis) Lifetime Fitness",
+    "street_address": "600 1st Ave N",
+    "city": "Minneapolis",
+    "state": "MN",
+    "zip": "55403",
+    "lat": 44.979548,
+    "long": -93.276159,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/target-center-minneapolis-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Chanhassen Lifetime Fitness",
+    "street_address": "2901 Corporate Pl",
+    "city": "Chanhassen",
+    "state": "MN",
+    "zip": "55317",
+    "lat": 44.861402,
+    "long": -93.594677,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/chanhassen-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Plymouth Lifetime Fitness",
+    "street_address": "3600 Plymouth Blvd",
+    "city": "Plymouth",
+    "state": "MN",
+    "zip": "55446",
+    "lat": 45.022322,
+    "long": -93.475666,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/plymouth-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Woodbury Lifetime Fitness",
+    "street_address": "675 Commons Dr",
+    "city": "Woodbury",
+    "state": "MN",
+    "zip": "55125",
+    "lat": 44.939443,
+    "long": -92.930981,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/woodbury-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Fridley Lifetime Fitness",
+    "street_address": "1200 East Moore Lake Drive",
+    "city": "Fridley",
+    "state": "MN",
+    "zip": "55432",
+    "lat": 45.079915,
+    "long": -93.23969,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/fridley-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Maple Grove Lifetime Fitness",
+    "street_address": "12601 82nd Ave N",
+    "city": "Maple Grove",
+    "state": "MN",
+    "zip": "55369",
+    "lat": 45.103371,
+    "long": -93.440983,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/maple-grove-lifetime-fitness.jpg"
+  },
+  {
+    "name": "White Bear Lake Lifetime Fitness",
+    "street_address": "4800 White Bear Pkwy",
+    "city": "White Bear Lake",
+    "state": "MN",
+    "zip": "55110",
+    "lat": 45.083855,
+    "long": -93.047332,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/white-bear-lake-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Champlin Lifetime Fitness",
+    "street_address": "11989 Champlin Dr",
+    "city": "Champlin",
+    "state": "MN",
+    "zip": "55316",
+    "lat": 45.1729879,
+    "long": -93.393775,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/champlin-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Coon Rapids Lifetime Fitness",
+    "street_address": "2100 Northdale Blvd NW",
+    "city": "Coon Rapids",
+    "state": "MN",
+    "zip": "55433",
+    "lat": 45.180749,
+    "long": -93.320631,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/coon-rapids-lifetime-fitness.jpg"
+  },
+
+  {
+    "name": "Des Moines Lifetime Fitness",
+    "street_address": "11911 Hickman Rd",
+    "city": "Urbandale",
+    "state": "IA",
+    "zip": "50323",
+    "lat": 41.617008,
+    "long": -93.781749,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/des-moines-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Omaha Lifetime Fitness",
+    "street_address": "17007 Elm Plaza",
+    "city": "Omaha",
+    "state": "NE",
+    "zip": "68130",
+    "lat": 41.230813,
+    "long": -96.180162,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/omaha-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Brookfield Lifetime Fitness",
+    "street_address": "17585 Golf Parkway",
+    "city": "Brookfield",
+    "state": "WI",
+    "zip": "53045",
+    "lat": 43.031417,
+    "long": -88.100578,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/brookfield-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Algonquin Lifetime Fitness",
+    "street_address": "451 Rolls Rd",
+    "city": "Algonquin",
+    "state": "IL",
+    "zip": "60102",
+    "lat": 42.170694,
+    "long": -88.331931,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/algonquin-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Vernon Hills Lifetime Fitness",
+    "street_address": "680 Woodlands Parkway",
+    "city": "Vernon Hills",
+    "state": "IL",
+    "zip": "60061",
+    "lat": 42.2126409,
+    "long": -87.9355367,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/vernon-hills-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Schaumburg Lifetime Fitness",
+    "street_address": "900 E Higgins Rd",
+    "city": "Schaumburg",
+    "state": "IL",
+    "zip": "60173",
+    "lat": 42.041731,
+    "long": -88.056599,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/schaumburg-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Bloomingdale Lifetime Fitness",
+    "street_address": "455 Scott Dr",
+    "city": "Bloomingdale",
+    "state": "IL",
+    "zip": "60108",
+    "lat": 41.9436708,
+    "long": -88.1205287,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/bloomingdale-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Warrenville Lifetime Fitness",
+    "street_address": "28141 Diehl Rd",
+    "city": "Warrenville",
+    "state": "IL",
+    "zip": "60555",
+    "lat": 41.800359,
+    "long": -88.1669806,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/warrenville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Old Orchard Lifetime Fitness",
+    "street_address": "5330 Old Orchard Rd",
+    "city": "Skokie",
+    "state": "IL",
+    "zip": "60077",
+    "lat": 42.0626218,
+    "long": -87.7589777,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/old-orchard-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Romeoville Lifetime Fitness",
+    "street_address": "1220 Lakeview Dr",
+    "city": "Romeoville",
+    "state": "IL",
+    "zip": "60446",
+    "lat": 41.6597866,
+    "long": -88.1196075,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/romeoville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Burr Ridge Lifetime Fitness",
+    "street_address": "601 Burr Ridge Pkwy",
+    "city": "Burr Ridge",
+    "state": "IL",
+    "zip": "60527",
+    "lat": 41.753,
+    "long": -87.913948,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/burr-ridge-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Orland Park Lifetime Fitness",
+    "street_address": "16333 S LaGrange Rd",
+    "city": "Orland Park",
+    "state": "IL",
+    "zip": "60467",
+    "lat": 41.5919397,
+    "long": -87.8524109,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/orland-park-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Lenexa Lifetime Fitness",
+    "street_address": "16851 W 90th St.",
+    "city": "Lenexa",
+    "state": "KS",
+    "zip": "66219",
+    "lat": 38.964492,
+    "long": -94.78148,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/lenexa-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Overland Park Lifetime Fitness",
+    "street_address": "6800 138th St",
+    "city": "Overland Park",
+    "state": "KS",
+    "zip": "66223",
+    "lat": 38.8788089,
+    "long": -94.664152,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/overland-park-lifetime-fitness.jpg"
+  },
+  {
+    "name": "West County-Chesterfield Lifetime Fitness",
+    "street_address": "3058 Clarkson Rd",
+    "city": "Ellisville",
+    "state": "MO",
+    "zip": "63017",
+    "lat": 38.607464,
+    "long": -90.583877,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/west-county-chesterfield-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Frontenac Lifetime Fitness",
+    "street_address": "2051 South Lindbergh Blvd",
+    "city": "St. Louis",
+    "state": "MO",
+    "zip": "63131",
+    "lat": 38.626535,
+    "long": -90.406037,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/frontenac-lifetime-fitness.jpg"
+  },
+  {
+    "name": "North Meridian Lifetime Fitness",
+    "street_address": "9525 Meridian St",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46260",
+    "lat": 39.926,
+    "long": -86.157,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/north-meridian-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Castle Creek Lifetime Fitness",
+    "street_address": "8705 Castle Creek Pkwy E Dr",
+    "city": "Indianapolis",
+    "state": "IN",
+    "zip": "46250",
+    "lat": 39.914224,
+    "long": -86.066944,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/castle-creek-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Commerce Township Lifetime Fitness",
+    "street_address": "2901 Commerce Crossing",
+    "city": "Commerce Township",
+    "state": "MI",
+    "zip": "48390",
+    "lat": 42.536109,
+    "long": -83.446586,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/commerce-township-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Novi Lifetime Fitness",
+    "street_address": "40000 High Pointe Blvd",
+    "city": "Novi",
+    "state": "MI",
+    "zip": "48375",
+    "lat": 42.448633,
+    "long": -83.4376769,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/novi-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Canton Township Lifetime Fitness",
+    "street_address": "1700 N Haggerty Rd",
+    "city": "Canton",
+    "state": "MI",
+    "zip": "48187",
+    "lat": 42.318821,
+    "long": -83.445652,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/canton-township-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Rochester Hills Lifetime Fitness",
+    "street_address": "200 W Avon Rd",
+    "city": "Rochester Hills",
+    "state": "MI",
+    "zip": "48307",
+    "lat": 42.668601,
+    "long": -83.136895,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/rochester-hills-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Troy Lifetime Fitness",
+    "street_address": "4700 Investment Dr",
+    "city": "Troy",
+    "state": "MI",
+    "zip": "48098",
+    "lat": 42.589075,
+    "long": -83.172542,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/troy-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Shelby Township Lifetime Fitness",
+    "street_address": "14843 Lakeside Blvd",
+    "city": "Shelby Township",
+    "state": "MI",
+    "zip": "48315",
+    "lat": 42.6314383,
+    "long": -82.9745092,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/shelby-township-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Deerfield Township Lifetime Fitness",
+    "street_address": "8310 Wilkens Blvd",
+    "city": "Mason",
+    "state": "OH",
+    "zip": "45040",
+    "lat": 39.318167,
+    "long": -84.317486,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/deerfield-township-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Dublin Lifetime Fitness",
+    "street_address": "3825 Hard Rd",
+    "city": "Dublin",
+    "state": "OH",
+    "zip": "43016",
+    "lat": 40.117231,
+    "long": -83.093025,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/dublin-lifetime-fitness.jpg"
+  },
+  {
+    "name": "South Tulsa Lifetime Fitness",
+    "street_address": "10642 S Memorial Dr",
+    "city": "Tulsa",
+    "state": "OK",
+    "zip": "74133",
+    "lat": 36.0086046,
+    "long": -95.8863858,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/south-tulsa-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Easton Lifetime Fitness",
+    "street_address": "3900 Easton Station",
+    "city": "Columbus",
+    "state": "OH",
+    "zip": "43219",
+    "lat": 40.050042,
+    "long": -82.917079,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/easton-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Beachwood Lifetime Fitness",
+    "street_address": "3850 Richmond Rd",
+    "city": "Beachwood",
+    "state": "OH",
+    "zip": "44122",
+    "lat": 41.4550974,
+    "long": -81.4979324,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/beachwood-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Oklahoma City Lifetime Fitness",
+    "street_address": "2563 West Memorial Rd",
+    "city": "Oklahoma City",
+    "state": "OK",
+    "zip": "73134",
+    "lat": 35.610415,
+    "long": -97.560641,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/oklahoma-city-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Mississauga Lifetime Fitness",
+    "street_address": "3055 Pepper Mill Ct",
+    "city": "Mississauga",
+    "state": "ON",
+    "zip": "L5L 4X5",
+    "lat": 43.538339,
+    "long": -79.711339,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/mississauga-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Westminster Lifetime Fitness",
+    "street_address": "397 West 148th Ave",
+    "city": "Westminster",
+    "state": "CO",
+    "zip": "80020",
+    "lat": 39.9657745,
+    "long": -104.9912592,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/westminster-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Woodbridge Lifetime Fitness",
+    "street_address": "7405 Weston Rd",
+    "city": "Vaughan",
+    "state": "ON",
+    "zip": "L4L OH3",
+    "lat": 43.7764576,
+    "long": -79.5445452,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/woodbridge-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Parker-Aurora Lifetime Fitness",
+    "street_address": "9250 Crown Crest Blvd",
+    "city": "Parker",
+    "state": "CO",
+    "zip": "80138",
+    "lat": 39.552062,
+    "long": -104.77026,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/parker-aurora-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Cherry Creek Lifetime Fitness",
+    "street_address": "500 S. Cherry St.",
+    "city": "Denver",
+    "state": "CO",
+    "zip": "80246",
+    "lat": 39.7069037,
+    "long": -104.9347473,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/cherry-creek-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Flatirons Lifetime Fitness",
+    "street_address": "300 Summit Blvd",
+    "city": "Broomfield",
+    "state": "CO",
+    "zip": "80021",
+    "lat": 39.9258857,
+    "long": -105.1420667,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/flatirons-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Centennial Lifetime Fitness",
+    "street_address": "5000 E Dry Creek Rd",
+    "city": "Centennial",
+    "state": "CO",
+    "zip": "80122",
+    "lat": 39.577892,
+    "long": -104.928851,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/centennial-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Collierville Lifetime Fitness",
+    "street_address": "3470 S Houston Levee Road",
+    "city": "Collierville",
+    "state": "TN",
+    "zip": "38139",
+    "lat": 35.054445,
+    "long": -89.730691,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/collierville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Franklin Lifetime Fitness",
+    "street_address": "5020 Carothers Parkway",
+    "city": "Franklin",
+    "state": "TN",
+    "zip": "37067",
+    "lat": 35.923637,
+    "long": -86.816161,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/franklin-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Ajax Lifetime Fitness",
+    "street_address": "100 Beck Crescent",
+    "city": "Ajax",
+    "state": "ON",
+    "zip": "L1Z 1C9",
+    "lat": 43.8590293,
+    "long": -79.007893,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/ajax-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Colorado Springs Lifetime Fitness",
+    "street_address": "4410 Royal Pine Dr",
+    "city": "Colorado Springs",
+    "state": "CO",
+    "zip": "80920",
+    "lat": 38.968558,
+    "long": -104.746004,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/colorado-springs-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Allen Lifetime Fitness",
+    "street_address": "971 St Hwy 121",
+    "city": "Allen",
+    "state": "TX",
+    "zip": "75013",
+    "lat": 33.1413749,
+    "long": -96.679322,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/allen-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Frisco Lifetime Fitness",
+    "street_address": "4900 Throne Hall Dr.",
+    "city": "Frisco",
+    "state": "TX",
+    "zip": "75034",
+    "lat": 33.1578944,
+    "long": -96.8521852,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/frisco-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Plano Lifetime Fitness",
+    "street_address": "7100 Preston Rd",
+    "city": "Plano",
+    "state": "TX",
+    "zip": "75024",
+    "lat": 33.071413,
+    "long": -96.7955202,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/plano-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Garland Lifetime Fitness",
+    "street_address": "5602 Naaman Forest Blvd",
+    "city": "Garland",
+    "state": "TX",
+    "zip": "75044",
+    "lat": 32.962045,
+    "long": -96.647909,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/garland-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Flower Mound Lifetime Fitness",
+    "street_address": "3100 Churchill Drive",
+    "city": "Flower Mound",
+    "state": "TX",
+    "zip": "75022",
+    "lat": 33.0353984,
+    "long": -97.0753961,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/flower-mound-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Dallas - Addison Lifetime Fitness",
+    "street_address": "3419 Trinity Mills Rd",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75287",
+    "lat": 32.988256,
+    "long": -96.851659,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/dallas-addison-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Dallas - Highland Park Lifetime Fitness",
+    "street_address": "5910 North Central Expressway",
+    "city": "Dallas",
+    "state": "TX",
+    "zip": "75206",
+    "lat": 32.838762,
+    "long": -96.775418,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/dallas-highland-park-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Fort Worth-Alliance Lifetime Fitness",
+    "street_address": "10761 Founders Way",
+    "city": "Fort Worth",
+    "state": "TX",
+    "zip": "76177",
+    "lat": 32.930233,
+    "long": -97.314113,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/fort-worth-alliance-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Colleyville Lifetime Fitness",
+    "street_address": "1221 Church St",
+    "city": "Colleyville",
+    "state": "TX",
+    "zip": "76034",
+    "lat": 32.886868,
+    "long": -97.149014,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/colleyville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Vestavia Hills Lifetime Fitness",
+    "street_address": "3051 Healthy Way",
+    "city": "Vestavia Hills",
+    "state": "AL",
+    "zip": "35243",
+    "lat": 33.43125,
+    "long": -86.73461,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/vestavia-hills-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Mansfield Lifetime Fitness",
+    "street_address": "1551 E Debbie Ln",
+    "city": "Mansfield",
+    "state": "TX",
+    "zip": "76063",
+    "lat": 32.6064994,
+    "long": -97.1155491,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/mansfield-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Woodstock Lifetime Fitness",
+    "street_address": "14200 Hwy 92",
+    "city": "Woodstock",
+    "state": "GA",
+    "zip": "30188",
+    "lat": 34.0805967,
+    "long": -84.4545974,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/woodstock-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Alpharetta Lifetime Fitness",
+    "street_address": "855 North Point Pkwy",
+    "city": "Alpharetta",
+    "state": "GA",
+    "zip": "30005",
+    "lat": 34.0467132,
+    "long": -84.2909639,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/alpharetta-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Johns Creek Lifetime Fitness",
+    "street_address": "11555 Johns Creek Parkway",
+    "city": "Johns Creek",
+    "state": "GA",
+    "zip": "30097",
+    "lat": 34.0309376,
+    "long": -84.14879,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/johns-creek-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Sandy Springs Lifetime Fitness",
+    "street_address": "5580 Roswell Rd",
+    "city": "Sandy Springs",
+    "state": "GA",
+    "zip": "30342",
+    "lat": 33.9075567,
+    "long": -84.378776,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/sandy-springs-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Sugarloaf Lifetime Fitness",
+    "street_address": "1823 N Brown",
+    "city": "Lawrenceville",
+    "state": "GA",
+    "zip": "30024",
+    "lat": 33.9889859,
+    "long": -84.0791586,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/sugarloaf-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Ashburn-Sterling Lifetime Fitness",
+    "street_address": "44610 Prentice Drive",
+    "city": "Sterling",
+    "state": "VA",
+    "zip": "20166",
+    "lat": 39.002043,
+    "long": -77.45793,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/ashburn-sterling-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Gainesville Lifetime Fitness",
+    "street_address": "7801 Limestone Drive",
+    "city": "Gainesville",
+    "state": "VA",
+    "zip": "20155",
+    "lat": 38.787945,
+    "long": -77.59706,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/gainesville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Centreville Lifetime Fitness",
+    "street_address": "5900 Trinity Pkwy",
+    "city": "Centreville",
+    "state": "VA",
+    "zip": "20120",
+    "lat": 38.8403856,
+    "long": -77.4414642,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/centreville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Gaithersburg Lifetime Fitness",
+    "street_address": "10121 Washingtonian Blvd",
+    "city": "Gaithersburg",
+    "state": "MD",
+    "zip": "20878",
+    "lat": 39.118337,
+    "long": -77.20676,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/gaithersburg-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Reston Lifetime Fitness",
+    "street_address": "1757 Business Center Dr",
+    "city": "Reston",
+    "state": "VA",
+    "zip": "20190",
+    "lat": 38.9504526,
+    "long": -77.3293191,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/reston-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Fairfax Lifetime Fitness",
+    "street_address": "9602 Main St",
+    "city": "Fairfax",
+    "state": "VA",
+    "zip": "22031",
+    "lat": 38.8417371,
+    "long": -77.275335,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/fairfax-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Columbia Lifetime Fitness",
+    "street_address": "7220 Lee Deforest Dr",
+    "city": "Columbia",
+    "state": "MD",
+    "zip": "21046",
+    "lat": 39.174664,
+    "long": -76.820605,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/columbia-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Charlotte Lifetime Fitness",
+    "street_address": "11220 Golf Links Dr",
+    "city": "Charlotte",
+    "state": "NC",
+    "zip": "28277",
+    "lat": 35.054274,
+    "long": -80.771798,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/charlotte-lifetime-fitness.jpg"
+  },
+  {
+    "name": "King of Prussia Lifetime Fitness",
+    "street_address": "700 E Swedesford Rd",
+    "city": "Wayne",
+    "state": "PA",
+    "zip": "19087",
+    "lat": 40.082178,
+    "long": -75.404682,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/king-of-prussia-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Fort Washington Lifetime Fitness",
+    "street_address": "375 Commerce Dr",
+    "city": "Fort Washington",
+    "state": "PA",
+    "zip": "19034",
+    "lat": 40.135854,
+    "long": -75.196294,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/fort-washington-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Raleigh Lifetime Fitness",
+    "street_address": "8515 Falls of Neuse Rd",
+    "city": "Raleigh",
+    "state": "NC",
+    "zip": "27615",
+    "lat": 35.8960729,
+    "long": -78.6165547,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/raleigh-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Cary Lifetime Fitness",
+    "street_address": "1700 Regency Pkwy",
+    "city": "Cary",
+    "state": "NC",
+    "zip": "27518",
+    "lat": 35.733572,
+    "long": -78.789546,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/cary-lifetime-fitness.jpg"
+  },
+  {
+    "name": "South Jordan Lifetime Fitness",
+    "street_address": "10996 S River Front Pkwy",
+    "city": "South Jordan",
+    "state": "UT",
+    "zip": "84095",
+    "lat": 40.5516956,
+    "long": -111.916764,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/south-jordan-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Bridgewater Lifetime Fitness",
+    "street_address": "145 Commons Way",
+    "city": "Bridgewater",
+    "state": "NJ",
+    "zip": "08807",
+    "lat": 40.588883,
+    "long": -74.627262,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/bridgewater-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Mount Laurel Lifetime Fitness",
+    "street_address": "3939 Church Rd",
+    "city": "Mount Laurel",
+    "state": "NJ",
+    "zip": "08054",
+    "lat": 39.9267345,
+    "long": -74.9642481,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/mount-laurel-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Florham Park Lifetime Fitness",
+    "street_address": "14 Fernwood Rd",
+    "city": "Florham Park",
+    "state": "NJ",
+    "zip": "07932",
+    "lat": 40.7856314,
+    "long": -74.3716401,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/florham-park-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Princeton Lifetime Fitness",
+    "street_address": "7 Forrestal Rd S",
+    "city": "Plainsboro",
+    "state": "NJ",
+    "zip": "08536",
+    "lat": 40.342403,
+    "long": -74.617513,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/princeton-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Berkeley Heights Lifetime Fitness",
+    "street_address": "25 Connell Dr",
+    "city": "Berkeley Heights",
+    "state": "NJ",
+    "zip": "07922",
+    "lat": 40.6663961,
+    "long": -74.4091484,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/berkeley-heights-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Bergen County Lifetime Fitness",
+    "street_address": "10 Van Riper Rd",
+    "city": "Montvale",
+    "state": "NJ",
+    "zip": "07645",
+    "lat": 41.0435155,
+    "long": -74.0657374,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/bergen-county-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Sky (Manhattan) Lifetime Fitness",
+    "street_address": "605 W 42nd St",
+    "city": "New York",
+    "state": "NY",
+    "zip": "10036",
+    "lat": 40.7611264,
+    "long": -73.9989473,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/sky-manhattan-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Austin - North Lifetime Fitness",
+    "street_address": "13725 Ranch Rd 620 N",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78717",
+    "lat": 30.4725421,
+    "long": -97.7740567,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/austin-north-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Westchester Lifetime Fitness",
+    "street_address": "1 Westchester Pk Dr",
+    "city": "Harrison",
+    "state": "NY",
+    "zip": "10604",
+    "lat": 41.02282,
+    "long": -73.72226,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/westchester-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Kingwood Lifetime Fitness",
+    "street_address": "20515 W. Lake Houston Pkwy.",
+    "city": "Humble",
+    "state": "TX",
+    "zip": "77346",
+    "lat": 30.009491,
+    "long": -95.177279,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/kingwood-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Lake Houston Lifetime Fitness",
+    "street_address": "13600 Will Clayton Pkwy",
+    "city": "Humble",
+    "state": "TX",
+    "zip": "77346",
+    "lat": 29.9820856,
+    "long": -95.1682489,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/lake-houston-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Champions Lifetime Fitness",
+    "street_address": "7717 Willow Chase Blvd",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77070",
+    "lat": 29.966087,
+    "long": -95.5456449,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/champions-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Cypress Lifetime Fitness",
+    "street_address": "9922 Fry Rd",
+    "city": "Cypress",
+    "state": "TX",
+    "zip": "77433",
+    "lat": 29.929911,
+    "long": -95.727728,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/cypress-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Austin - South Lifetime Fitness",
+    "street_address": "7101 S. MoPac Expy NB",
+    "city": "Austin",
+    "state": "TX",
+    "zip": "78749",
+    "lat": 30.217545,
+    "long": -97.855836,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/austin-south-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Garden City Lifetime Fitness",
+    "street_address": "750 Zeckendorf Blvd",
+    "city": "Garden City",
+    "state": "NY",
+    "zip": "11530",
+    "lat": 40.739486,
+    "long": -73.604751,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/garden-city-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Syosset Lifetime Fitness",
+    "street_address": "350 Robbins Ln",
+    "city": "Syosset",
+    "state": "NY",
+    "zip": "11791",
+    "lat": 40.7973583,
+    "long": -73.5149976,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/syosset-lifetime-fitness.jpg"
+  },
+  {
+    "name": "City Centre Houston Lifetime Fitness",
+    "street_address": "815 Town and Country Ln",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77024",
+    "lat": 29.780969,
+    "long": -95.559882,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/city-centre-houston-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Greenway Lifetime Fitness",
+    "street_address": "1 Healthy Way",
+    "city": "Houston",
+    "state": "TX",
+    "zip": "77046",
+    "lat": 29.731854570214516,
+    "long": -95.43545647541028,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/greenway-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Cinco Ranch Lifetime Fitness",
+    "street_address": "23211 Cinco Ranch Blvd",
+    "city": "Katy",
+    "state": "TX",
+    "zip": "77494",
+    "lat": 29.742435,
+    "long": -95.770536,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/cinco-ranch-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Sugar Land Lifetime Fitness",
+    "street_address": "1331 Texas Hwy 6",
+    "city": "Sugar Land",
+    "state": "TX",
+    "zip": "77478",
+    "lat": 29.605104,
+    "long": -95.632502,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/sugar-land-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Baybrook Lifetime Fitness",
+    "street_address": "19250 Gulfbrook Dr",
+    "city": "Friendswood",
+    "state": "TX",
+    "zip": "77546",
+    "lat": 29.546478,
+    "long": -95.153053,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/baybrook-lifetime-fitness.jpg"
+  },
+  {
+    "name": "San Antonio 281 Lifetime Fitness",
+    "street_address": "18510 US 281 N",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78259",
+    "lat": 29.6358233,
+    "long": -98.4559487,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/san-antonio-281-lifetime-fitness.jpg"
+  },
+  {
+    "name": "San Antonio at the Rim Lifetime Fitness",
+    "street_address": "5639 Worth Pkwy",
+    "city": "San Antonio",
+    "state": "TX",
+    "zip": "78257",
+    "lat": 29.6128895,
+    "long": -98.6003309,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/san-antonio-at-the-rim-lifetime-fitness.jpg"
+  },
+  {
+    "name": "MetroWest-Boston Lifetime Fitness",
+    "street_address": "490 Old Connecticut Path",
+    "city": "Framingham",
+    "state": "MA",
+    "zip": "01701",
+    "lat": 42.3121184,
+    "long": -71.3927528,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/metrowest-boston-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Burlington Lifetime Fitness",
+    "street_address": "186 Middlesex Tpke",
+    "city": "Burlington",
+    "state": "MA",
+    "zip": "01803",
+    "lat": 42.492698,
+    "long": -71.226181,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/burlington-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Westwood Lifetime Fitness",
+    "street_address": "44 Harvard St",
+    "city": "Westwood",
+    "state": "MA",
+    "zip": "02090",
+    "lat": 42.20209,
+    "long": -71.1555981,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/westwood-lifetime-fitness.jpg"
+  },
+  {
+    "name": "North Scottsdale Lifetime Fitness",
+    "street_address": "6850 E Chauncey Ln",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85054",
+    "lat": 33.652509,
+    "long": -111.932952,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/north-scottsdale-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Gilbert Lifetime Fitness",
+    "street_address": "381 East Warner Rd",
+    "city": "Gilbert",
+    "state": "AZ",
+    "zip": "85296",
+    "lat": 33.334281,
+    "long": -111.782805,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/gilbert-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Happy Valley-Peoria Lifetime Fitness",
+    "street_address": "24700 North 67th Ave.",
+    "city": "Peoria",
+    "state": "AZ",
+    "zip": "85383",
+    "lat": 33.709152,
+    "long": -112.2106746,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/happy-valley-peoria-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Biltmore Lifetime Fitness",
+    "street_address": "2580 E. Camelback Rd.",
+    "city": "Phoenix",
+    "state": "AZ",
+    "zip": "85016",
+    "lat": 33.5100815,
+    "long": -112.0283236,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/biltmore-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Tempe Lifetime Fitness",
+    "street_address": "1616 W Ruby Dr",
+    "city": "Tempe",
+    "state": "AZ",
+    "zip": "85284",
+    "lat": 33.341038,
+    "long": -111.964878,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/tempe-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Palm Valley Lifetime Fitness",
+    "street_address": "14540 W McDowell Rd",
+    "city": "Goodyear",
+    "state": "AZ",
+    "zip": "85395",
+    "lat": 33.465445,
+    "long": -112.371661,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/palm-valley-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Green Valley Lifetime Fitness",
+    "street_address": "121 Carnegie St.",
+    "city": "Henderson",
+    "state": "NV",
+    "zip": "89052",
+    "lat": 36.02167,
+    "long": -115.09311,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/green-valley-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Summerlin Lifetime Fitness",
+    "street_address": "10721 W Charleston Blvd",
+    "city": "Las Vegas",
+    "state": "NV",
+    "zip": "89135",
+    "lat": 36.157884,
+    "long": -115.327746,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/summerlin-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Boca Raton Lifetime Fitness",
+    "street_address": "1499 Yamato Rd",
+    "city": "Boca Raton",
+    "state": "FL",
+    "zip": "33431",
+    "lat": 26.394095,
+    "long": -80.1138365,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/boca-raton-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Folsom Lifetime Fitness",
+    "street_address": "110 Healthy Way",
+    "city": "Folsom",
+    "state": "CA",
+    "zip": "95630",
+    "lat": 38.6456036,
+    "long": -121.1072359,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/folsom-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Roseville Lifetime Fitness",
+    "street_address": "1435 E Roseville Pkwy",
+    "city": "Roseville",
+    "state": "CA",
+    "zip": "95661",
+    "lat": 38.761643,
+    "long": -121.245207,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/roseville-lifetime-fitness.jpg"
+  },
+  {
+    "name": "Laguna Niguel Lifetime Fitness",
+    "street_address": "25600 Rancho Niguel Rd.",
+    "city": "Laguna Niguel",
+    "state": "CA",
+    "zip": "92677",
+    "lat": 33.5563382,
+    "long": -117.6843207,
+    "image": "https:\/\/hoopspots.s3.amazonaws.com\/locations\/laguna-niguel-lifetime-fitness.jpg"
+  }
+]

@@ -1,7 +1,6 @@
 version: '3.7'
 
 services:
-  # This is the local mail server
   mailhog:
     image: mailhog/mailhog
     logging:

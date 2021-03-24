@@ -7,14 +7,17 @@ RUN go mod download && go mod verify
 
 # Copy and build the app
 COPY . .
-RUN go build -o go-docker .
+RUN go build server.go
+RUN go build cli.go
 
 FROM alpine:latest
 WORKDIR /app
-COPY --from=builder /app/go-docker .
+COPY --from=builder /app/.env .
+COPY --from=builder /app/server .
+COPY --from=builder /app/cli .
 
 RUN chown -R nobody: /app
 
 USER nobody
 
-CMD [ "./go-docker" ]
+CMD [ "./server" ]

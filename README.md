@@ -27,3 +27,19 @@ Make sure you have Golang 1.16
 1. Run `go get`
 2. Run `go run github.com/99designs/gqlgen generate`
 3. Run `go run server.go`
+
+
+### Timestamps
+We use Carbon
+
+### Database Seeding
+How to run the database seeder
+How do I add a seeder
+
+### Go Report Card
+https://github.com/gojp/goreportcard
+
+### Concerns
+- How do I add tests?
+- Add a CLI tool similar to Laravel artisan command
+- Add Queued Jobs (SQS, Redis, RabbitMQ)

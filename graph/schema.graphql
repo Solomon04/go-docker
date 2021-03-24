@@ -183,6 +183,7 @@ type Query {
   me: User
   user(uuid: ID): User
   users(name: String, uuid: ID, email: String, id: Int): [User]
+  recommendedFollowers: [User]
 
   # location queries (recommendedLocations used in discover locations feed)
   location(slug: String): Location
